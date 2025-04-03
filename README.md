@@ -2,86 +2,23 @@
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
 </div>
 
-### 搜索机器人(❗️中文用户名，如张三，点击以下机器人送USDT❗️)
+### 搜索机器人
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | SOSO机器人  | [@soso](https://t.me/soso)                     | 发送关键词来寻找群组、频道或视频           |
 | 极搜JiSo   | [@jiso](https://t.me/jiso)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot?start=a_6294881820)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot?start=a_7202424896)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| i快搜      | [@ikuaisobot](https://t.me/ikuaisobot?start=7352210715)             | 再小的个体也有自己的品牌。                 |
-| AISO       | [@aiso](https://t.me/aiso?start=telegram_6294881820)                | 查找群组、频道、影视、音乐或机器人         |
-| 神马搜索   | [@smss](https://t.me/smss?start=spread_6294881820)                  | 发送词语即可搜索关联群组与频道资源         |
-| 🔥修女能量租赁   | [@trxxnbot](https://t.me/trxxnbot)                  | 买能量，租能量，兑换TRX，会员购买，USDT地址监控，USDT余额查询，USDT实时汇率查询一站式服务。通知群:[@xiunvtrx](https://t.me/xiunvtrx)         |
-| 🔥奥特曼能量租赁   | [@trxaotemanbot](https://t.me/trxaotemanbot)                  | 买能量，租能量，兑换TRX。通知群:[@aotemantrx](https://t.me/xiunvtrx)         |
-| 电报哥的网络店铺   | [https://shop.tg10000.com](https://shop.tg10000.com)            | 一些和电报有关的产品服务，低价代充电报会员3月/109、6月/149、12月/259   |
-| Telegram电报会员机器人   | [@kttgvip_bot](https://t.me/kttgvip_bot)            | 低价自助开通电报会员机器人，支持USDT、微信、支付宝等支付，1秒克隆同款机器人   |
-| 🚀每日免费节点   | [Free-SSR-V2ray](https://github.com/itgoyo/Free-SSR-V2ray)               | 每天中午12点准时更新免费高速节点   |
-| 🌈彩虹群发器   | [@autocaihongbot](https://t.me/autocaihongbot)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 番号搜索机器人   | [@fanhaosearchbot](https://t.me/fanhaosearchbot)            | 输入番号或者作者名字即可找到对应的资源下载地址  |
-| 免费频道搬运机器人   | [@xiunvbanyun](https://t.me/xiunvbanyun)            |  搭建[@banyunpindao](https://t.me/banyunpindao) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)   |
-| 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
-| 搜索群②   | [@jisou20w](https://t.me/jisou20w)            | 可以在里面搜索你想要的一切   |
-| 搜索群③   | [@jisou200000](https://t.me/jisou200000)            | 可以在里面搜索你想要的一切   |
-| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
-| 币圈区块链各类常用工具   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航   |
-| 🍉 吃瓜吧 | [https://t.me/chiguabar](https://t.me/chiguabar) | 分享全网第一个热瓜      |
-
-
-## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
-
-视频参考：https://www.youtube.com/watch?v=-Bz9amW-iZQ
-
-## +86 无法接收验证码问题
-
-视频参考：https://www.youtube.com/watch?v=ErfanyyANUI
-
-### 1. 开通国际漫游
-
-| 运营商 | 短信内容 | 发送号码 |
-|--------|----------|----------|
-| **移动**   | 发送“11111” | 10629349125637402 |
-| **电信**   | 发送“11111” | 1068299708 |
-| **联通**   | 发送“11111” | 106829970757 |
-
-### 2. TelegramX
-
-- [TelegramX 官方下载](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
-- [TelegramX 安卓下载（免 Google Play）](https://telegram-x.cn.uptodown.com/android)
-
-### 3. 接码平台
-
-- [SMS 接码平台](https://sms-activate.guru/?ref=2695392)
-
-### 4. Giffgaff 手机卡
+| 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| 快搜  | [@kuaisou1_bot](https://t.me/kuaisou1_bot)             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
+| i快搜      | [@ikuaisobot](https://t.me/ikuaisobot)             | 再小的个体也有自己的品牌。                 |
+| AISO       | [@aiso](https://t.me/aiso)                | 查找群组、频道、影视、音乐或机器人         |
+| 神马搜索   | [@smss](https://t.me/smss)                  | 发送词语即可搜索关联群组与频道资源         |
+| 通问搜索   | [@TongSearchXBot](https://t.me/TongSearchXBot)            | 可以在里面搜索你想要的一切   |   |
 
 ### 全国交友
-
-全国交友①：[https://t.me/+bJkN6Cz7WIQ5YjQ9](https://t.me/+bJkN6Cz7WIQ5YjQ9)
-
-全国交友②：[https://t.me/+C5fvKZ_VCxU4NWRl](https://t.me/+C5fvKZ_VCxU4NWRl)
-
-### Telegram API申请
-
-官网申请API: https://my.telegram.org/auth?to=apps
-
-| Field         | Value                                    |
-|---------------|------------------------------------------|
-| App api_id    | 23862859                                 |
-| App api_hash  | 9fc6cfff12d0763xxx1125ddb46602a          |
-| App title     | zhuanfabotsxxx                              |
-| Short name    | zhuanfabotsxxx                              |
-
-### Telegram钱包|虚拟信用卡
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--6294881820)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
-
-### 常用机器人
-
-🔥Telegram专门的机器人合集🔥：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
+| 关键字                  | 链接                                                                 | 标题                                  |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
 
 #### Telegram电报官方
 
