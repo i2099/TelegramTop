@@ -15,10 +15,39 @@
 | 神马搜索   | [@smss](https://t.me/smss)                  | 发送词语即可搜索关联群组与频道资源         |
 | 通问搜索   | [@TongSearchXBot](https://t.me/TongSearchXBot)            | 可以在里面搜索你想要的一切   |   |
 
-### 全国交友
+### 推荐的频道
 | 关键字                  | 链接                                                                 | 标题                                  |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
+| 明星         | [@mingxingwo](https://t.me/mingxingwo)                                   | 明星娱乐八卦             |
+| 婚恋         | [@hunlianaiqing](https://t.me/hunlianaiqing)                                   | 婚恋配对/情侣交友/夫妻关系             |
+| 体育         | [@tiyufans](https://t.me/tiyufans)                                   | 体育资讯/足球/篮球/nba             |
+| 辟谣         | [@piyaobar](https://t.me/piyaobar)                                   | 辟谣吧/谣言止于智者             |
+| 公益         | [@gongyicishan](https://t.me/gongyicishan)                                   | 公益资讯/捐赠/慈善/援助/咨询             |
+| 收藏         | [@shoucang58](https://t.me/shoucang58)                                   | 收藏品/文玩/古董/字画             |
+| 校园         | [@xiaoyuangu](https://t.me/xiaoyuangu)                                   | 校园-青春的绽放             |
+| 游戏         | [@youxibar](https://t.me/youxibar)                                   | 游戏排行榜/网游/手游/单机             |
+| 音乐         | [@yinyueliu](https://t.me/yinyueliu)                                   | 音乐现场 流行金曲             |
+| 健康         | [@jiankg](https://t.me/jiankg)                                   | 健康管理/养生秘诀/疾病常识             |
+| 设计         | [@shejimen](https://t.me/shejimen)                                   | 设计创意 方案展示             |
+| 法律         | [@falvfx](https://t.me/falvfx)                                   | 法律问题/常识/咨询/案例             |
+| 历史         | [@lishijm](https://t.me/lishijm)                                   | 历史-聊一下更多精彩/解密/故事/事件             |
+| 旅游         | [@lvyoushe](https://t.me/lvyoushe)                                   | 旅游/精彩时刻 值得驻足/驴友             |
+| 动漫         | [@dongmanjie](https://t.me/dongmanjie)                                   | 动漫大全/二次元             |
+| 科普         | [@kepu520](https://t.me/kepu520)                                   | 科普/让科技知识在网上和生活中流行             |
+| 科技         | [@kejiai52](https://t.me/kejiai52)                                   | 科技/未来发展趋势/人工智能             |
+| 军事         | [@junshimi](https://t.me/junshimi)                                   | 军事/军迷/国防/报道/战争             |
+| 星座         | [@xingzuobar](https://t.me/xingzuobar)                                   | 星座查询/精准/配对/运势             |
+| 综艺         | [@zongyi88](https://t.me/zongyi88)                                   | 综艺节目大全/内地/港台/日本/韩国             |
+| 读书         | [@dushu5](https://t.me/dushu5)                                   | 爱读书/阅读的重要性             |
+| 财经         | [@caijingfx](https://t.me/caijingfx)                                   | 财经新闻/股票行情/理财             |
+| 社会         | [@shehuixx](https://t.me/shehuixx)                                   | 值得玩味的社会现象             |
+| 汽车         | [@qicheai](https://t.me/qicheai)                                   | 汽车之家/性能/评测/报价/新能源             |
+| 深度         | [@shendufaxian](https://t.me/shendufaxian)                                   | 深度思考 探索发现             |
+| 电视剧         | [@dianshiju5](https://t.me/dianshiju5)                                   | 电视剧热播大全追剧             |
+| 电影         | [@dianyingjie](https://t.me/dianyingjie)                                   | 电影资源/高清观看/免费剧情             |
+| 搞笑         | [@gaoxiaobar](https://t.me/gaoxiaobar)                                   | 幽默搞笑段子/笑话大全             |
+| 短剧         | [@duanjutui](https://t.me/duanjutui)                                   | 热播短剧推荐             |
+| 情感         | [@qingganye](https://t.me/qingganye)                                   | 男女情感 夜话             |
 
 #### Telegram电报官方
 
