@@ -19,7 +19,7 @@
 | 关键字                  | 链接                                                                 | 标题                                  |
 | :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 明星         | [@mingxingwo](https://t.me/mingxingwo)                                   | 明星娱乐八卦             |
-| 婚恋         | [@hunlianaiqing](https://t.me/hunlianaiqing)                                   | 婚恋配对/情侣交友/夫妻关系             |
+| 婚恋         | [@hunlianaiqing](https://t.me/aiqinghunlian)                                   | 婚恋配对/情侣交友/夫妻关系             |
 | 体育         | [@tiyufans](https://t.me/tiyufans)                                   | 体育资讯/足球/篮球/nba             |
 | 辟谣         | [@piyaobar](https://t.me/piyaobar)                                   | 辟谣吧/谣言止于智者             |
 | 公益         | [@gongyicishan](https://t.me/gongyicishan)                                   | 公益资讯/捐赠/慈善/援助/咨询             |
