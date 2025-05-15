@@ -6,7 +6,7 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 通问搜索   | [@TongSearchXBot](https://t.me/TongSearchXBot){target="_blank"}            | 可以在里面搜索你想要的一切   | 
+| 通问搜索   | [@TongSearchXBot](https://t.me/TongSearchXBot){:target="_blank"}           | 可以在里面搜索你想要的一切   | 
 | SOSO机器人 | [@soso](https://t.me/soso){target="_blank"}                     | 发送关键词来寻找群组、频道或视频           |
 | 极搜JiSo   | [@jiso](https://t.me/jiso){target="_blank"}                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 极搜JiSou  | [@jisou2bot](https://t.me/jisou2bot){target="_blank"}             | 帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
